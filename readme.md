@@ -16,6 +16,10 @@ This module was developed for the collection database of [German Emigration Cent
 
 The API for CollectiveAccess Data Aggregator runs a NodeJS Express Server with and Mongoose to fetch from Mongo DB.
 
+## Funding
+
+This GraphQL API for CollectiveAccess Data Aggregator is part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Experience the History of Migration Digitally. The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany). Further information: [www.museum4punkt0.de/en/](www.museum4punkt0.de/en/)
+
 ## Resources
 
 For the main software components used see:
@@ -69,6 +73,8 @@ Programming: Culture to go GbR
 ## Licensing
 
 MIT license
+
+2020, provided by Deutsches Auswandererhaus Bremerhaven, programming by Culture to go GbR.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
