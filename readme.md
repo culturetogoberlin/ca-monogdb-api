@@ -74,7 +74,7 @@ Programming: Culture to go GbR
 
 MIT license
 
-2020, provided by Deutsches Auswandererhaus Bremerhaven, programming by Culture to go GbR.
+© 2020 Deutsches Auswandererhaus Bremerhaven, programming by Culture to go GbR.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
